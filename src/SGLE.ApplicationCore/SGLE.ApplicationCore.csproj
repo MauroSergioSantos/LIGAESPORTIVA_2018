@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="- 2.2 - Interfaces\" />
+    <Folder Include="- 2.3 - Services\" />
+  </ItemGroup>
+
+</Project>
